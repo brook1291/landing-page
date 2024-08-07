@@ -15,3 +15,15 @@ a {
 li {
     list-style: none;
 }
+
+button {
+    cursor: pointer;
+}
+
+.top, .footer {
+    background-color: #1F2937;
+}
+
+.top {
+    height: 100%;
+}
