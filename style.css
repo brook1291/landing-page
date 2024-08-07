@@ -56,6 +56,11 @@ button {
     font-weight: bold;
 }
 
+.hero {
+    display: flex;
+    gap: 15px;
+}
+
 .call-right button {
     border: 1px solid white;
 }
@@ -65,12 +70,13 @@ button {
 }
 
 .top {
-    height: 100%;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     padding-left: 100px;
     padding-right: 100px;
     padding-top: 20px;
+    padding-bottom: 100px;
     gap: 40px;
 }
 
