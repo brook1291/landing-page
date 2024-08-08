@@ -61,6 +61,15 @@ button, .call-to-action {
     background-color: #3882F6;
 }
 
+.call-container {
+    height: 500px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
 .hero-img {
     width: 50%;
 }
