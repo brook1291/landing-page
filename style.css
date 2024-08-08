@@ -72,8 +72,13 @@ button, .call-to-action {
 
 .call-to-action {
     color: white;
+    padding: 50px;
 }
 
+#call {
+    font-weight: bold;
+    font-size: 18px;
+}
 
 .hero-img {
     width: 50%;
