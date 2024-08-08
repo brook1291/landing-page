@@ -70,6 +70,11 @@ button, .call-to-action {
     padding: 100px;
 }
 
+.call-to-action {
+    color: white;
+}
+
+
 .hero-img {
     width: 50%;
 }
