@@ -77,6 +77,7 @@ button, .call-to-action {
     display: flex;
     justify-content: space-between;
     width: 900px;
+    gap: 50px;
     align-items: center;
     
 }
