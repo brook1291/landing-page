@@ -73,6 +73,12 @@ button, .call-to-action {
 .call-to-action {
     color: white;
     padding: 50px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    align-items: center;
+    
 }
 
 #call {
@@ -176,7 +182,7 @@ button {
     text-align: center;
     justify-content: center;
     gap: 25px;
-    padding-bottom: 100px;
+    padding-bottom: 120px;
     flex-wrap: wrap;
 }
 
